@@ -8,6 +8,8 @@
     windows 7 64位
 
 ### 使用说明
+    代码采用es6+ 语法写成
+
 ```javascript
     npm install file-assist
 
