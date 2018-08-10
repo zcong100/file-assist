@@ -8,9 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zcong100/file-assist.git"
+    "url": "git+https://github.com/zcong100/file-assist.git"
   },
-  "keywords": ["fs","file assist","文件操作","文件夹处理","文件夹"],
+  "keywords": [
+    "fs",
+    "file assist",
+    "文件操作",
+    "文件夹处理",
+    "文件夹"
+  ],
   "author": "zcong100",
   "email": "zcong100@163.com",
   "license": "ISC",
