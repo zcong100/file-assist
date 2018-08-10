@@ -1,0 +1,21 @@
+{
+  "name": "file-assist",
+  "version": "1.0.0",
+  "description": "对nodejs中fs文件系统简单的封装。文件或文件夹的增、删、改、查操作并返回promise对象",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zcong100/file-assist.git"
+  },
+  "keywords": ["fs","file assist","文件操作","文件夹处理","文件夹"],
+  "author": "zcong100",
+  "email": "zcong100@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcong100/file-assist/issues"
+  },
+  "homepage": "https://github.com/zcong100/file-assist"
+}
