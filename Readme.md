@@ -25,7 +25,7 @@
       await fsApi.update.file(`${schoolPath}/teach.js`,`${schoolPath}/teacher.js`)
 
       // find.folder()/file() 函数返回为 promise 对象
-      fileApi.find.folder("school").then(res=>{
+      fileApi.find.find("school").then(res=>{
          console.log(1)
        },rej=>{
          console.log(2)
